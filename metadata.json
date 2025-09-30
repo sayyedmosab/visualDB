@@ -1,0 +1,5 @@
+{
+  "name": "Architexture AI",
+  "description": "A visual tool to describe business and operating models using a drag-and-drop interface. It allows defining components with data granularity, volume, and frequency, and then generates an optimal database schema using AI.",
+  "requestFramePermissions": []
+}
